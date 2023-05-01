@@ -1,0 +1,41 @@
+
+.hexd{
+    display: inline-block;
+    background-color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 125%;
+}
+p{
+    float:right;
+    margin-left: 30px;
+    margin-top: 110px;
+    color: purple;
+}
+.ppic{
+    width: 75px;
+    margin-top: 50px;
+}
+hr{
+    margin-top: 10px;
+    margin-bottom: 7%;
+}
+.tdlist{ 
+    width: 120px;
+    margin-left: 30px;
+}
+.body{
+    display: inline-block;
+}
+h4{
+    float:right;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+li{
+    margin-left: 55%;
+    margin-top: 30px;
+}
+.foot{
+    margin: 10%;
+    font-size: 95px;
+}
